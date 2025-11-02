@@ -1,0 +1,14 @@
+Discussed assignment with:
+No one
+
+Libraries used:
+- pandas: For data manipulation and reading/writing TSV files
+- numpy: For numerical computations and log probability calculations
+- json: For handling JSON-formatted feature dictionaries
+- re: For regular expression-based text processing and feature extraction
+- collections: For Counter and defaultdict data structures
+- matplotlib: For creating ROC curve and error rate visualizations
+- sklearn.metrics: For computing Area Under Curve (AUC)
+
+Additional resources:
+I used the lecture materials provided in the course, including the project files and lecture videos on naive Bayes classification, conditional probabilities, and ROC curves.
